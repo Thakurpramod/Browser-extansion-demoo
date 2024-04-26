@@ -1,2 +1,2 @@
-# Browser-extansion-demoo
+# Browser-extansion-demo
 Create your own browser demo
