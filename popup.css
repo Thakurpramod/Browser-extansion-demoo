@@ -1,0 +1,23 @@
+body {
+    width: 500px;
+    height: 400px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+
+  .completed {
+    color: greenyellow;
+  }
+  
